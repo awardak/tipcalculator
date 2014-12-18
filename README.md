@@ -12,3 +12,10 @@ Completed user stories:
   - Optional: bill amount is persisted if app is restarted within 5 minutes
   - Optional: settings view has a light/dark color theme
   - Optional: added app icon and fixed app name
+
+
+GIF created with [LiceCap].
+
+
+
+[LiceCap]:http://www.cockos.com/licecap/
