@@ -13,6 +13,10 @@ Completed user stories:
   - Optional: settings view has a light/dark color theme
   - Optional: added app icon and fixed app name
 
+Walkthrough of user stories:
+
+![Video Walkthrough](tipCalcDemos.gif)
+
 
 GIF created with [LiceCap].
 
