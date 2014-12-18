@@ -20,6 +20,8 @@ Walkthrough of user stories:
 
 GIF created with [LiceCap].
 
+iOS app icon by [DesignBolts].
 
 
 [LiceCap]:http://www.cockos.com/licecap/
+[DesignBolts]:http://www.icons101.com/iconset/setid_2354/iOS8_Cirtangle_Concept_by_DesignBolts
