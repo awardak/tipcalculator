@@ -38,6 +38,7 @@
                 </label>
                 <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="right" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="QeM-f3-ykc">
                     <rect key="frame" x="0.0" y="-30" width="97" height="30"/>
+                    <color key="backgroundColor" white="0.94089302007299269" alpha="1" colorSpace="calibratedWhite"/>
                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                     <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                     <variation key="widthClass=compact" fixedFrame="YES">
