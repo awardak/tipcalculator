@@ -63,6 +63,16 @@
                         <rect key="frame" x="26" y="216" width="81" height="41"/>
                     </variation>
                 </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0RH-n6-JxH">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="8" y="183" width="384" height="9"/>
+                    </variation>
+                    <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="0.0" y="0.0" width="0.0" height="0.0"/>
+                    </variation>
+                </view>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$0.00" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aS5-yk-HCW">
                     <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
                     <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
@@ -86,16 +96,6 @@
                         <action selector="onTap:" destination="-1" eventType="valueChanged" id="3cF-rq-zIR"/>
                     </connections>
                 </segmentedControl>
-                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0RH-n6-JxH">
-                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
-                    <variation key="widthClass=compact" fixedFrame="YES">
-                        <rect key="frame" x="0.0" y="0.0" width="0.0" height="0.0"/>
-                    </variation>
-                    <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
-                        <rect key="frame" x="0.0" y="0.0" width="0.0" height="0.0"/>
-                    </variation>
-                </view>
             </subviews>
             <gestureRecognizers/>
             <variation key="default">
@@ -104,9 +104,9 @@
                     <exclude reference="QeM-f3-ykc"/>
                     <exclude reference="3wv-zC-a79"/>
                     <exclude reference="K0u-Mh-jFy"/>
+                    <exclude reference="0RH-n6-JxH"/>
                     <exclude reference="aS5-yk-HCW"/>
                     <exclude reference="c85-wW-l3H"/>
-                    <exclude reference="0RH-n6-JxH"/>
                 </mask>
             </variation>
             <variation key="widthClass=compact">
@@ -115,9 +115,9 @@
                     <include reference="QeM-f3-ykc"/>
                     <include reference="3wv-zC-a79"/>
                     <include reference="K0u-Mh-jFy"/>
+                    <include reference="0RH-n6-JxH"/>
                     <include reference="aS5-yk-HCW"/>
                     <include reference="c85-wW-l3H"/>
-                    <include reference="0RH-n6-JxH"/>
                 </mask>
             </variation>
             <connections>
