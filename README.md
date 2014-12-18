@@ -11,3 +11,4 @@ Completed user stories:
   - Required: settings view where user can choose a default tip percentage amount
   - Optional: bill amount is persisted if app is restarted within 5 minutes
   - Optional: settings view has a light/dark color theme
+  - Optional: added app icon and fixed app name
