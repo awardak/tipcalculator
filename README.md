@@ -15,7 +15,7 @@ Completed user stories:
 
 Walkthrough of user stories:
 
-![Video Walkthrough](tipCalcDemo.gif)
+![Video Walkthrough](tipCalcDemo2.gif)
 
 
 GIF created with [LiceCap].
